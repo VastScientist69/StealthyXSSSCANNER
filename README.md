@@ -20,8 +20,8 @@ Installation
 Clone or download the scanner files:
 
 bash
-git clone <repository-url>
-cd xss-scanner
+git clone https://github.com/VastScientist69/StealthyXSSSCANNER/edit/main/README.md
+cd StealthyXSSScanner
 Install required dependencies:
 
 bash
